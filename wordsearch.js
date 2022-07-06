@@ -6,3 +6,10 @@ const wordSearch = (letters, word) => {
 }
 
 module.exports = wordSearch
+//fix code to work horizontally
+
+
+
+
+//Check to find the word horizontal and vertical 
+//return true if found
